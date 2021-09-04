@@ -1,0 +1,6 @@
+Money      Number       Random Number      expected output        output
+20         15           15                 You won $30.           You won $30.
+25.5       27           34                 You won $38.25.        You won $38.25.
+50         25           11                 You lost $50.          You lost $50.
+225        24           26                 You won $337.5.        You won $337.5.
+15         11           12                 You lost $15.          You lost $15.

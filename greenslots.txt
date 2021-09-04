@@ -1,0 +1,3 @@
+input       expected output         output
+1           Include green slots     Include green slots
+0           Exclude green slots     Exclude green slots
